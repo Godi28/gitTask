@@ -5,7 +5,7 @@ Javascript programm to the accepts an intput from the user and prints it out on 
 
 ## Installation 
 1.first add the url for this repository to your local git repository as follows:
-git remote add "give it a name" https://github.com/Godi28/Web-Pushed
+git remote add "give it a name" https://github.com/Godi28/Web-Pushed.git
 
 2.then pull the repsitory into your local repositiry as follows:
 
